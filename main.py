@@ -85,7 +85,6 @@ print(f"Monday's temperature in degrees is {m_f_temp}")
 
 
 
-
 # TODO 6: Create a dataframe from scratch usign data inside python (i.e not from an outside file).
 grade_dict = {
     "students": ["Amy", "James", "Angela"],
